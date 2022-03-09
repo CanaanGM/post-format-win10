@@ -1,0 +1,1 @@
+Copy-Item -Path "..\rar_key\rarreg.key" -Destination "C:\Program Files\WinRAR"
